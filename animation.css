@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(248, 241, 241); 
+    background-image: blueviolet;   
+     background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-image: url("abstract-circuit-computer-detail-wallpaper-preview.jpg");
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color:aqua
+}
+
+div{
+ height: 200px;
+ width: 500px;
+
+ border: solid 8px white;
+ margin-bottom: 12rem;
+ margin-top: 15rem;
+ border-radius: 0px 40px;
+ box-shadow: 20px 30px 20px black;
+}
+#head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#details{
+    margin-left: 70px;
+}
+
+#back{
+    background-color: rgb(108, 186, 238);
+     color: #181616;
+     padding: 14px 20px;
+     margin: 5px;
+     border: 5px  solid blue;
+     border-radius: 0px 15px;
+     cursor: pointer;
+     height: 15px;
+     width: 100px;
+     text-align: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-right: 80rem;
+   }
+   #condent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:aqua;
+
+   }
+   #font{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     font-weight: bolder;
+     font-variant: unset;
+   }

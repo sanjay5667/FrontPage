@@ -1,0 +1,55 @@
+body{
+    
+    background-image: url("be.jpg");
+}
+.college{
+    background:transparent;
+    color:black;
+    width:10200px;
+    height:180px;
+     margin-left:270px;  
+    
+    color:darkred;
+    margin-top:0;
+    /* overflow-x:hidden; */
+    overflow-y:scroll;
+    border:1px solid blue;
+    background-color: aqua;
+    font-style: italic;
+    text-shadow: 5px;
+    margin-right: 350px;
+    color:black;
+    border-radius:5px;
+    /* outline-color: aqua; */
+    background-color: transparent;
+    padding:10px;
+    border-radius:15px 3px 3px ;
+    border: solid skyblue 5px   ;
+
+}
+
+#back{
+    background-color: rgb(108, 186, 238);
+     color: aqua;
+     padding: 14px 20px;
+     margin: 5px;
+     border: 5px  solid skyblue;
+     border-radius: 0px 15px;
+     cursor: pointer;
+     height: 15px;
+     width: 100px;
+     text-align: center;
+     display: flex; 
+     justify-content: center;
+     align-items: center;
+     margin-right: 80px;
+   }
+   .space{
+    display:flex;
+   }
+ /* .college{
+    background-image: url(X1q39zD8_400x400.jpg);
+    background-repeat: no-repeat;
+    background-size: 50%;
+    overflow-x: scroll;
+ } */
